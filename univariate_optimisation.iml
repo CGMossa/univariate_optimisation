@@ -7,7 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/../univariate_optimisation\examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../univariate_optimisation\tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../univariate_optimisation\benches" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/../univariate_optimisation\target" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
